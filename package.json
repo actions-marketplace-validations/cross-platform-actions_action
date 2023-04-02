@@ -45,7 +45,7 @@
     "http-server": "^14.1.0",
     "jasmine": "^4.5.0",
     "jasmine-ts": "^0.4.0",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^4.1.0",
     "prettier": "2.4.1",
     "typescript": "^4.4.3"
   }
